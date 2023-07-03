@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Phorast Java Edition Server</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
   <link href="images/server-icon.png" rel="shortcut icon">
 </head>
